@@ -1,0 +1,10 @@
+Debug/ 
+*.aps 
+*.user 
+*.suo 
+*.vcxproj.*.user 
+*.log 
+*.exe 
+*.obj 
+*.ipch 
+*.VC.db 
