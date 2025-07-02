@@ -71,7 +71,7 @@ labwork1/
 
 ## License
 
-This project was created for academic purposes. License it as needed (e.g., MIT License).
+This project was created for academic purposes.
 
 ---
 
